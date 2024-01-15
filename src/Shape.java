@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Shape {
+//Shape.java
+
+public abstract class Shape {
+    public abstract double surface_area();
+    public abstract double volume();
 }
